@@ -1,7 +1,9 @@
 {
-  "name": "Esrafil Extension Pack",
+  "name": "esrafil-extension-pack",
   "description": "A collection of useful VSCode extensions",
   "version": "1.0.0",
+  "repository": "https://github.com/your-username/your-repository",
+  "publisher": "EsrafilExtensionPack",
   "engines": {
     "vscode": "^1.0.0"
   },
