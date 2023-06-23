@@ -1,0 +1,21 @@
+{
+  "name": "Esrafil Extension Pack",
+  "description": "A collection of useful VSCode extensions",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "extensionPack": [
+    "ES7+ React/Redux/React-Native snippets",
+    "GlassIt-VSC",
+    "Git History",
+    "HTML Snippets",
+    "vscode-twoslash-queries",
+    "Shades of Purple",
+    "Sass (.sass only)",
+    "Material Icon Theme",
+    "Markdown Preview Enhanced",
+    "Prettier - Code formatter",
+    "ESLint"
+  ]
+}
