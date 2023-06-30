@@ -34,7 +34,7 @@ Enjoy the enhanced functionality and productivity provided by the Esrafil Extens
 
 ## Issues and Contributions
 
-If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the [GitHub repository](https://github.com/your-username/your-repository). Contributions are also welcome!
+If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the [GitHub repository](https://github.com/EsrafilElahi/my-extension-vscode-pack/tree/master). Contributions are also welcome!
 
 ## License
 
