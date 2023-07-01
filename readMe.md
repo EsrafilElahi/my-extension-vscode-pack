@@ -16,6 +16,7 @@ Esrafil Extension Pack is a collection of useful Visual Studio Code (VSCode) ext
 - **Auto Import**: Automatically imports modules as you type.
 - **vscode-twoslash-queries**: Allows you to write TypeScript queries using twoslash syntax.
 - **Shades of Purple**: A vibrant and visually pleasing theme for VSCode.
+- **Tailwind CSS IntelliSense**: Intelligent code completion and IntelliSense for Tailwind CSS.
 - **Sass (.sass only)**: Sass language support for .sass files.
 - **Material Icon Theme**: A material-design-inspired icon theme for VSCode.
 - **Markdown Preview Enhanced**: Enhanced markdown preview and editing within VSCode.
